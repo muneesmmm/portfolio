@@ -1,5 +1,5 @@
 # portfolio
-[https://bit.ly//traversaa.me]
+[https://traversaa.me]
 
 
 
